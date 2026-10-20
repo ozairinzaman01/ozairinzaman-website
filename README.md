@@ -2,8 +2,8 @@
 
 A multi-page, responsive personal portfolio built with **HTML, CSS, JavaScript and Firebase**, following a waterfall workflow: planning → design → development → testing. The site presents my skills, freelance services and tech blog, and includes a contact form and blog sign-up that store submissions in Firestore, plus a login-gated dashboard.
 
-> ⚠️ This is an academic project that runs locally and is **not hosted online**. The login page is a front-end demonstration only (credentials are checked in client-side JavaScript), so it is not secure authentication. See [Running Locally](#running-locally) to view the site.
-
+> ⚠️ This is an academic project that runs locally and is **not hosted online**. The login page is a front-end demonstration only (credentials are checked in client-side JavaScript), so it is not secure authentication.
+> 
 ## Project Environment
 
 | | |
