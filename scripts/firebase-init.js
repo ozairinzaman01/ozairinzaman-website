@@ -3,7 +3,6 @@ import { getDatabase, ref, push } from "https://www.gstatic.com/firebasejs/11.6.
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCGrX6ry8Phh1ZfRmekJ_1rpjEyF2CbGnc",
   authDomain: "ozairinzaman.firebaseapp.com",
   databaseURL: "https://ozairinzaman-default-rtdb.firebaseio.com",
   projectId: "ozairinzaman",
